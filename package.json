@@ -1,0 +1,23 @@
+{
+  "name": "changelog-standard",
+  "version": "1.0.0",
+  "description": "commit规范+commitlint+CHANGELOG自动生成一条龙服务",
+  "main": "index.js",
+  "scripts": {
+    "git-commit": "git-cz"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/git-cz"
+    }
+  },
+  "author": "HoMeTown",
+  "license": "ISC",
+  "devDependencies": {
+    "@commitlint/config-conventional": "^17.4.0",
+    "commitlint": "^17.4.1",
+    "git-cz": "^4.9.0",
+    "husky": "^8.0.3",
+    "standard-version": "^9.5.0"
+  }
+}
