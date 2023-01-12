@@ -1,5 +1,5 @@
 module.exports = {
-  header: "# xxx系统 \n## 更新历史",
+  header: "# changelog-standard \n## 更新历史",
   commitUrlFormat: "https://github.com/HoMeTownSoCool/changelog-standard",
   issueUrlFormat: "https://github.com/HoMeTownSoCool/changelog-standard/issues",
   types: [
