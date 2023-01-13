@@ -9,8 +9,7 @@
     "release:dry": "standard-version --release-as patch --dry-run",
     "major-alpha": "standard-version --release-as major --prerelease alpha",
     "major-alpha:dry": "standard-version --release-as major --prerelease alpha --dry-run",
-    "tag-push": "git push --follow-tags origin master",
-    "release-publish": "npm run tag-push && npm publish"
+    "release-publish": "git push --follow-tags origin main && npm publish"
   },
   "config": {
     "commitizen": {
