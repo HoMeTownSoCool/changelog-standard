@@ -4,9 +4,9 @@ module.exports = {
   issueUrlFormat: "https://github.com/HoMeTownSoCool/changelog-standard/issues",
   types: [
     { type: "feat", section: "✨ Features | 新功能" },
-    { type: "fix", section: "🐛 Bug Fixes | Bug 修复" },
+    { type: "fix", section: "🐛 Bug Fixes" },
     { type: "init", section: "🎉 Init | 初始化" },
-    { type: "docs", section: "✏️ Documentation | 文档" },
+    { type: "docs", section: "📝 Documentation | 文档" },
     { type: "style", section: "💄 Styles | 风格" },
     { type: "refactor", section: "♻️ Code Refactoring | 代码重构" },
     { type: "perf", section: "⚡ Performance Improvements | 性能优化" },
@@ -14,6 +14,6 @@ module.exports = {
     { type: "revert", section: "⏪ Revert | 回退", hidden: true },
     { type: "build", section: "📦‍ Build System | 打包构建" },
     { type: "chore", section: "🚀 Chore | 构建/工程依赖/工具" },
-    { type: "ci", section: "👷 Continuous Integration | CI 配置" },
+    { type: "ci", section: "🛵 Continuous Integration | CI 配置" },
   ],
 };
