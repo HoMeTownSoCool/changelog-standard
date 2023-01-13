@@ -1,5 +1,28 @@
 # changelog-standard 
 ## 更新历史
+### [1.2.7](https://github.com/HoMeTownSoCool/changelog-standard/compare/v1.2.6...v1.2.7) (2023-01-13)
+
+
+### 🚀 Chore | 构建/工程依赖/工具
+
+*  gitflow commit优化 ([ff8328c](https://github.com/HoMeTownSoCool/changelog-standard))
+* 📦 第一次修改的部分 ([abfae4b](https://github.com/HoMeTownSoCool/changelog-standard))
+
+
+### ✨ Features | 新功能
+
+*  新增功能a.js ([67b6b34](https://github.com/HoMeTownSoCool/changelog-standard))
+
+
+### 🐛 Bug Fixes
+
+*  修复a.js的代码内容 ([9807ce4](https://github.com/HoMeTownSoCool/changelog-standard))
+
+
+### 📝 Documentation | 文档
+
+*  REDAME.md更新 ([114f152](https://github.com/HoMeTownSoCool/changelog-standard))
+
 ### [1.2.6](https://github.com/HoMeTownSoCool/changelog-standard/compare/v1.2.5...v1.2.6) (2023-01-13)
 
 
