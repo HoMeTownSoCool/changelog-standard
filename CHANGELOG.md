@@ -1,5 +1,7 @@
 # changelog-standard 
 ## 更新历史
+### [1.2.4](https://github.com/HoMeTownSoCool/changelog-standard/compare/v1.2.3...v1.2.4) (2023-01-13)
+
 ### [1.2.3](https://github.com/HoMeTownSoCool/changelog-standard/compare/v1.2.2...v1.2.3) (2023-01-13)
 
 
