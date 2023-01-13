@@ -31,12 +31,12 @@ module.exports = {
     chore: {
       description:
         "对构建过程或辅助工具和库的更改,不影响源文件、测试用例的其他操作",
-      emoji: "🤖",
+      emoji: "📦",
       value: "chore",
     },
     ci: {
       description: "修改了 CI 配置、脚本",
-      emoji: "🎡",
+      emoji: "🛵",
       value: "ci",
     },
     docs: {
@@ -61,7 +61,7 @@ module.exports = {
     },
     refactor: {
       description: "一些代码结构上优化，既不是新特性也不是修 Bug",
-      emoji: "💡",
+      emoji: "♻️",
       value: "refactor",
     },
     release: {
