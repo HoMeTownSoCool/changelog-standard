@@ -1,5 +1,29 @@
 # changelog-standard 
 ## 更新历史
+### [1.2.6](https://github.com/HoMeTownSoCool/changelog-standard/compare/v1.2.5...v1.2.6) (2023-01-13)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 🐛 删除c.js ([55c5b96](https://github.com/HoMeTownSoCool/changelog-standard))
+
+
+### 🚀 Chore | 构建/工程依赖/工具
+
+* 🤖 新增a.config.js ([06be360](https://github.com/HoMeTownSoCool/changelog-standard))
+
+
+### ✅ Tests | 测试
+
+* ✅ 这是一条测试信息 ([5422a17](https://github.com/HoMeTownSoCool/changelog-standard))
+* ✅ a哈哈测试一下 ([dd96dcf](https://github.com/HoMeTownSoCool/changelog-standard))
+
+
+### ✨ Features | 新功能
+
+* ✨ 这是新增的 ([615c8f4](https://github.com/HoMeTownSoCool/changelog-standard))
+* ✨ a.js新增内容 ([fac4751](https://github.com/HoMeTownSoCool/changelog-standard))
+
 ### [1.2.5](https://github.com/HoMeTownSoCool/changelog-standard/compare/v1.2.4...v1.2.5) (2023-01-13)
 
 
