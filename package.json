@@ -1,6 +1,6 @@
 {
   "name": "changelog-standard",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "commit规范+commitlint+CHANGELOG自动生成一条龙服务",
   "main": "index.js",
   "scripts": {

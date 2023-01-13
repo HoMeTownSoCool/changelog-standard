@@ -1,5 +1,12 @@
 # changelog-standard 
 ## 更新历史
+### [1.2.3](https://github.com/HoMeTownSoCool/changelog-standard/compare/v1.2.2...v1.2.3) (2023-01-13)
+
+
+### ✨ Features | 新功能
+
+* ✨ add file test.c.js ([4fbbce5](https://github.com/HoMeTownSoCool/changelog-standard))
+
 ### [1.2.2](https://github.com/HoMeTownSoCool/changelog-standard/compare/v1.2.1...v1.2.2) (2023-01-13)
 
 
