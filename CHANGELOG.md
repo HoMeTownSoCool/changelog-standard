@@ -1,5 +1,12 @@
 # changelog-standard 
 ## 更新历史
+### [1.2.2](https://github.com/HoMeTownSoCool/changelog-standard/compare/v1.2.1...v1.2.2) (2023-01-13)
+
+
+### ✨ Features | 新功能
+
+* ✨ add file ([d288834](https://github.com/HoMeTownSoCool/changelog-standard))
+
 ### [1.2.1](https://github.com/HoMeTownSoCool/changelog-standard/compare/v1.2.0...v1.2.1) (2023-01-12)
 
 ## [1.2.0](https://github.com/HoMeTownSoCool/changelog-standard/compare/v1.1.1...v1.2.0) (2023-01-12)
